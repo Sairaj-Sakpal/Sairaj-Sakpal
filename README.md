@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋-->
-
 <h1 align="center">Hi 👋, I'm Sairaj Sakpal</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
@@ -14,13 +13,25 @@
 
 - 💬 Ask me about **Android Development, PHP, Web Development**
 
-- 📫 How to reach me **sairajsakpal@gmail.com**
+- 📫 How to reach me: Use any of the **Badges** below
+
+- 📝[Resume](https://github.com/Sairaj-Sakpal/Sairaj-Sakpal)
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+[![Gmail Badge](https://img.shields.io/badge/-sairajsakpal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sairajsakpal@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-sairajsakpal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sairaj%sakpal/ "Connect on LinkedIn")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.messenger.com/t/105014134455873/ "Connect on Facebook")
+[![Instagram Badge](https://img.shields.io/badge/-sakpalsairaj-D5019C?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/sakpalsairaj/ "Connect on Instagram")
+<!-- [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram") 
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")-->
+
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/sairaj sakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairaj sakpal" height="30" width="40" /></a>
 <a href="https://instagram.com/sakpalsairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakpalsairaj" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <h6> Frontend Languages:</h6>
@@ -32,6 +43,9 @@
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> 
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -55,8 +69,6 @@
 </a> 
 
 
-
-
 <h6> Programming Languages:</h6>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -73,7 +85,7 @@
 </a>
   
 <h6> Tools & Frameworks:</h6>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -99,18 +111,55 @@
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
+</a>  -->
+
+![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman&logoColor=F26635)
+![Azure](https://img.shields.io/badge/-Azure-222222?style=flat&logo=microsoft-azure&logoColor=blue)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=orange)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-222222?style=flat&logo=codeigniter&logoColor=F03C2E)
+![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel&logoColor=)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+<!-- ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Postman](https://img.shields.io/twitter/url?label=Postman&logo=Postman&style=flat&url=https%3A%2F%2Fshields.io)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![Postman](https://img.shields.io/endpoint?url=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg/badge/-Postman-222222?style=flat&logo=getpostman&logoColor=1575F9)
+![Postman](https://img.shields.io?label=Postman&logo=Postman&style=social&url=https%3A%2F%2Fshields.io) -->
+
 </p>
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairaj-sakpal&show_icons=true&locale=en&layout=compact" alt="sairaj-sakpal" />&nbsp &nbsp &nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-sakpal&" alt="sairaj-sakpal" /></p>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairaj-sakpal&show_icons=true&locale=en&layout=compact" alt="sairaj-sakpal" /></p>
+<!--?style=flat&logo=appveyor<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairaj-sakpal&show_icons=true&locale=en&layout=compact" alt="sairaj-sakpal" />&nbsp &nbsp &nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-sakpal&" alt="sairaj-sakpal" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairaj-sakpal&show_icons=true&locale=en" alt="sairaj-sakpal" /></p>
+<div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-sakpal&" alt="sairaj-sakpal" /></p>
+## Some of my Github Public Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairaj-sakpal&show_icons=true&title_color=fff&icon_color=79ff97&locale=en&layout=compact&text_color=9f9f9f&bg_color=151515" alt="sairaj-sakpal" /></p>
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=sairaj-sakpal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+	
+<!-- <a><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="150" /></a> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairaj-sakpal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sairaj-sakpal" /></p> -->
+
+</div>
+
+<div align="center">
+	
+<p> Show ❤️ by starring repositories you find good! </p>
+	
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/Sairaj-Sakpal/Sairaj-Sakpal)
+	
+</div> 
+
+ 
 
 <!--
 **Sairaj-Sakpal/Sairaj-Sakpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
